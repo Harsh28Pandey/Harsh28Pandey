@@ -4,7 +4,7 @@
        src="./robot_gif.gif" 
        alt="Top Image GIF"
        width="500"
-       height="280"
+       height="290"
        style="border-radius: 30px;"
   />
 </p>
