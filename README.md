@@ -88,7 +88,7 @@
 <div align="center">
 
 
-| 🚀 Project | 🛠️ Tech Stack                    | 🔗 Live  |
+| Project | Tech Stack                    | Live  |
 |---------------|--------------------------------|-----------|
 | Portfolio     | HTML, CSS, JavaScript           | [Explore](https://portfoliotechy.netlify.app/) |
 | Interview Prep AI  | React, Node, Express, MongoDB, Tailwind           | [Explore](https://prepareinterview.vercel.app/) |
