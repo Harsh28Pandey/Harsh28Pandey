@@ -90,10 +90,10 @@
 
 | 🚀 Project | 🛠️ Tech Stack                     |  🔗 Live  |
 |---------------|--------------------------------|-----------|
-| Portfolio     | HTML, CSS, JavaScript           | [Link](https://portfoliotechy.netlify.app/) |
-| Interview Prep AI  | React, Node, Express, MongoDB, Tailwind           | [Link](https://prepareinterview.vercel.app/) |
-| Quick Chat App  | React, Node, Express, MongoDB, Tailwind, Socket.io           | [Link](https://qchatty.vercel.app/login) |
-| Car Purchase  | HTML, CSS, JavaScript           | [Link](https://car-purchase.netlify.app/) |
+| Portfolio     | HTML, CSS, JavaScript           | [Explore](https://portfoliotechy.netlify.app/) |
+| Interview Prep AI  | React, Node, Express, MongoDB, Tailwind           | [Explore](https://prepareinterview.vercel.app/) |
+| Quick Chat App  | React, Node, Express, MongoDB, Tailwind, Socket.io           | [Explore](https://qchatty.vercel.app/login) |
+| Car Purchase  | HTML, CSS, JavaScript           | [Explore](https://car-purchase.netlify.app/) |
 
 
 </div>
