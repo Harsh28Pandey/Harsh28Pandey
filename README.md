@@ -3,8 +3,8 @@
   <img 
        src="./robot_gif.gif" 
        alt="Top Image GIF"
-       width="400"
-       height="300"
+       width="500"
+       height="280"
        style="border-radius: 30px;"
   />
 </p>
