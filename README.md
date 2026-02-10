@@ -1,13 +1,14 @@
 <!-- PROFILE HEADER IMAGE -->
 <p align="center">
   <img 
-       src="animated.png" 
-       alt="Top Image"
-       width="500"
-       height="200"
+       src="./robot_gif.gif" 
+       alt="Top Image GIF"
+       width="400"
+       height="300"
        style="border-radius: 30px;"
   />
 </p>
+
 
 <!-- PROFILE HEADER -->
 <h1 align="center">
