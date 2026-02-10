@@ -38,7 +38,7 @@
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,ts" />
 </p>
 
 ---
@@ -59,6 +59,17 @@
 
 ---
 
+### 🔐 Authentication & Security
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/bcryptjs-Password%20Hashing-red?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/CORS-Cross--Origin-blue?style=for-the-badge&logo=web&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-ODM-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+</p>
+
+---
+
 ### 🔧 Tools & IDEs
 
 <p align="center">
@@ -75,16 +86,14 @@
 
 <div align="center">
 
-| 🚀 Project    | 📝 Description               | 🛠️ Tech Used                | 🔗 Live Link                                            |
-| ------------- | ---------------------------- | --------------------------- | ------------------------------------------------------- |
-| Portfolio     | Personal developer portfolio | `HTML`, `CSS`, `JavaScript` | [Open Project](https://portfoliotechy.netlify.app/)     |
-| Car Purchase  | Buy & browse car listings    | `HTML`, `CSS`, `JavaScript` | [Open Project](https://car-purchase.netlify.app/)       |
-| Auth Form     | Secure Login/SignUp page     | `HTML`, `CSS`, `JavaScript` | [Open Project](https://signloginform.netlify.app/)      |
-| YouTube Clone | UI of video-sharing app      | `HTML`, `CSS`, `JavaScript` | [Open Project](https://webyouclone.netlify.app/)        |
-| Tic Tac Toe   | Classic 2-player game        | `HTML`, `CSS`, `JavaScript` | [Open Project](https://tictactoegamesio.netlify.app/)   |
-| Snake Game    | Eat & grow retro game        | `HTML`, `CSS`, `JavaScript` | [Open Project](https://snakegamesio.netlify.app/)       |
-| Space Shooter | Avoid & attack in space      | `HTML`, `CSS`, `JavaScript` | [Open Project](https://spaceshootergameio.netlify.app/) |
-| Car Game      | Navigate traffic game        | `HTML`, `CSS`, `JavaScript` | [Open Project](https://cargameio.netlify.app/)          |
+
+| 🚀 Project Name   | 🛠️ Tech Stack                     |  🔗 Live Link |
+|---------------|--------------------------------|-----------|
+| Portfolio     | HTML, CSS, JavaScript           | [Link](https://portfoliotechy.netlify.app/) |
+| Interview Prep AI  | React, Node, Express, MongoDB, Tailwind           | [Link](https://prepareinterview.vercel.app/) |
+| Quick Chat App  | React, Node, Express, MongoDB, Tailwind, Socket.io           | [Link](https://qchatty.vercel.app/login) |
+| Car Purchase  | HTML, CSS, JavaScript           | [Link](https://car-purchase.netlify.app/) |
+
 
 </div>
 
@@ -150,14 +159,47 @@
 
 <div align="center">
 
-| 🎓 Certification                                 | 🏢 Platform                        | 🔗 Live Link                                                                                                                                                                                              |
-| ------------------------------------------------ | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Python 101 for Data Science                      | IBM Developer Skills Network       | [View Certificate](https://courses.cognitiveclass.ai/certificates/fb98f3284cc34819a59ba79b873f9ba0)                                                                                                       |
-| SQL and Relational Databases 101                 | IBM Developer Skills Network       | [View Certificate](https://courses.cognitiveclass.ai/certificates/afaa857bf9554e82b210e56f6f766130)                                                                                                       |
-| Initiation Lakshya CyberSecurity Quiz            | United Latino Students Association | [View Certificate](https://credsverse.com/credentials/d7cdf823-c88d-41bf-be0e-7c4c595fecd1)                                                                                                               |
-| C++ Bootcamp Course                              | LetsUpgrade                        | [View Certificate](https://verify.letsupgrade.in/certificate/LUECPPJAN125651)                                                                                                                             |
-| AWS APAC - Solutions Architecture Job Simulation | Forage                             | [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_yz2u3d8QiXd2vAqkb_1736823100003_completion_certificate.pdf) |
-| HTML & CSS Bootcamp                              | LetsUpgrade                        | [View Certificate](https://verify.letsupgrade.in/certificate/LUEHTMLJAN1252059)                                                                                                                           |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Certification</th>
+      <th align="left">Platform</th>
+      <th align="center">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Python 101 for Data Science</td>
+      <td>IBM Developer Skills Network</td>
+      <td align="center"><a href="https://courses.cognitiveclass.ai/certificates/fb98f3284cc34819a59ba79b873f9ba0">View</a></td>
+    </tr>
+    <tr>
+      <td>SQL and Relational Databases 101</td>
+      <td>IBM Developer Skills Network</td>
+      <td align="center"><a href="https://courses.cognitiveclass.ai/certificates/afaa857bf9554e82b210e56f6f766130">View</a></td>
+    </tr>
+    <tr>
+      <td>Initiation Lakshya CyberSecurity Quiz</td>
+      <td>United Latino Students Association</td>
+      <td align="center"><a href="https://credsverse.com/credentials/d7cdf823-c88d-41bf-be0e-7c4c595fecd1">View</a></td>
+    </tr>
+    <tr>
+      <td>C++ Bootcamp Course</td>
+      <td>LetsUpgrade</td>
+      <td align="center"><a href="https://verify.letsupgrade.in/certificate/LUECPPJAN125651">View</a></td>
+    </tr>
+    <tr>
+      <td>AWS APAC – Solutions Architecture Job Simulation</td>
+      <td>Forage</td>
+      <td align="center"><a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_yz2u3d8QiXd2vAqkb_1736823100003_completion_certificate.pdf">View</a></td>
+    </tr>
+    <tr>
+      <td>HTML & CSS Bootcamp</td>
+      <td>LetsUpgrade</td>
+      <td align="center"><a href="https://verify.letsupgrade.in/certificate/LUEHTMLJAN1252059">View</a></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
