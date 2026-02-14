@@ -119,23 +119,23 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Harsh's GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=600&count_private=true" alt="Harsh's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh28Pandey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800&v=2" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh28Pandey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=600&v=2" />
 
   </a>
   <br/>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+    <img src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=600&date_format=j%20M%5B%20Y%5D" />
 
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&cache_seconds=600&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </div>
 
