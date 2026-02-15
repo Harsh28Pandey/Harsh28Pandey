@@ -57,7 +57,7 @@
 ### 🧩 Frameworks / Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
 </p>
 
 ---
