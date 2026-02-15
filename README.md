@@ -1,4 +1,5 @@
 <!-- PROFILE HEADER IMAGE -->
+<!--
 <p align="center">
   <img 
        src="./robot_gif.gif" 
@@ -8,6 +9,7 @@
        style="border-radius: 30px;"
   />
 </p>
+-->
 
 <!-- PROFILE HEADER -->
 <h1 align="center">
