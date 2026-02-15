@@ -9,7 +9,6 @@
   />
 </p>
 
-
 <!-- PROFILE HEADER -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Harsh+Pandey;B.Tech+CSE+Undergrad;Full+Stack+Developer;Data+Structures+%26+Algorithms;Problem+Solver;" alt="Typing SVG" />
@@ -78,8 +77,9 @@
 </p>
 
 ---
+
 <!--
-> 🧠 _"The journey from ideas to interfaces has been incredible — and it’s just getting started!"_  
+> 🧠 _"The journey from ideas to interfaces has been incredible — and it’s just getting started!"_
 > 💬 Feel free to fork, explore, and collaborate!
 -->
 
@@ -87,14 +87,12 @@
 
 <div align="center">
 
-
-| Project | Tech Stack                    | Live  |
-|---------------|--------------------------------|-----------|
-| Portfolio     | HTML, CSS, JavaScript           | [Explore](https://portfoliotechy.netlify.app/) |
-| Interview Prep AI  | React, Node, Express, MongoDB, Tailwind           | [Explore](https://prepareinterview.vercel.app/) |
-| Quick Chat App  | React, Node, Express, MongoDB, Tailwind, Socket.io           | [Explore](https://qchatty.vercel.app/login) |
-| Car Purchase  | HTML, CSS, JavaScript           | [Explore](https://car-purchase.netlify.app/) |
-
+| Project           | Tech Stack                                         | Live                                            |
+| ----------------- | -------------------------------------------------- | ----------------------------------------------- |
+| Portfolio         | HTML, CSS, JavaScript                              | [Explore](https://portfoliotechy.netlify.app/)  |
+| Interview Prep AI | React, Node, Express, MongoDB, Tailwind            | [Explore](https://prepareinterview.vercel.app/) |
+| Quick Chat App    | React, Node, Express, MongoDB, Tailwind, Socket.io | [Explore](https://qchatty.vercel.app/login)     |
+| Car Purchase      | HTML, CSS, JavaScript                              | [Explore](https://car-purchase.netlify.app/)    |
 
 </div>
 
@@ -119,26 +117,25 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=600&count_private=true" alt="Harsh's GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=500&count_private=true" alt="Harsh's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh28Pandey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=600&v=2" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh28Pandey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=500&v=2" />
 
   </a>
   <br/>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=600&date_format=j%20M%5B%20Y%5D" />
+    <img src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=500&date_format=j%20M%5B%20Y%5D" />
 
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&cache_seconds=600&area=true&hide_border=true" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&cache_seconds=500&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </div>
-
 
 ---
 
