@@ -48,7 +48,8 @@
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <!-- firebase -->
 </p>
 
 ---
