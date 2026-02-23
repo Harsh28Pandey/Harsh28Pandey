@@ -129,7 +129,7 @@
   </a>
   <br/>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=10&date_format=j%20M%5B%20Y%5D" />
+    <img src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=30&date_format=j%20M%5B%20Y%5D" />
 
   </a>
 </div>
