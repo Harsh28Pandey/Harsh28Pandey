@@ -128,17 +128,34 @@
 
   </a>
   <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <!-- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=30&date_format=j%20M%5B%20Y%5D" />
 
-  </a>
+  </a> -->
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=30&background=0D1117&v=1" 
+    height="170"
+  />
+
 </div>
 
+---
+
+## 📈 Activity Graph
+
 <div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&hide_border=true&area=true&v=1" 
+  />
+</div>
+</div>
+
+<!-- <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&cache_seconds=30&area=true&hide_border=true" alt="Activity Graph" />
   </a>
-</div>
+</div> -->
 
 ---
 
