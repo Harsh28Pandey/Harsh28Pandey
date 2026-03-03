@@ -120,11 +120,11 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=80&count_private=true" alt="Harsh's GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=70&count_private=true" alt="Harsh's GitHub Stats" />
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh28Pandey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=80&v=2" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh28Pandey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=70&v=2" />
 
   </a>
   <br/>
@@ -134,7 +134,7 @@
   </a> -->
   <!-- Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=80&background=0D1117&v=1" 
+    src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=70&background=0D1117&v=1" 
     height="170"
   />
 
@@ -146,7 +146,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&hide_border=true&cache_seconds=80&area=true&v=1" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&hide_border=true&cache_seconds=70&area=true&v=1" 
   />
 </div>
 </div>
