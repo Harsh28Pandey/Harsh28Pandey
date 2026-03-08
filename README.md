@@ -149,7 +149,6 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&hide_border=true&cache_seconds=0&area=true&v=1" 
   />
 </div>
-</div>
 
 <!-- <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
