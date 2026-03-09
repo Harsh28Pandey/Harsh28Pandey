@@ -134,7 +134,7 @@
   </a> -->
   <!-- Streak Stats -->
   <img 
-    src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=100&background=0D1117&v=1" 
+    src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=20&background=0D1117&v=1" 
     height="170"
   />
 
@@ -146,7 +146,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&hide_border=true&cache_seconds=100&area=true&v=1" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&hide_border=true&cache_seconds=40&area=true&v=1" 
   />
 </div>
 
