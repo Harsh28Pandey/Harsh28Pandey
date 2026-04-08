@@ -1,8 +1,8 @@
 <!-- PROFILE HEADER IMAGE -->
 <!--
 <p align="center">
-  <img 
-       src="./robot_gif.gif" 
+  <img
+       src="./robot_gif.gif"
        alt="Top Image GIF"
        width="500"
        height="290"
@@ -90,12 +90,14 @@
 
 <div align="center">
 
-| Project           | Tech Stack                                         | Live                                            |
-| ----------------- | -------------------------------------------------- | ----------------------------------------------- |
-| Portfolio         | HTML, CSS, JavaScript                              | [Explore](https://portfoliotechy.netlify.app/)  |
-| Interview Prep AI | React, Node, Express, MongoDB, Tailwind            | [Explore](https://prepareinterview.vercel.app/) |
-| Quick Chat App    | React, Node, Express, MongoDB, Tailwind, Socket.io | [Explore](https://qchatty.vercel.app/login)     |
-| Car Purchase      | HTML, CSS, JavaScript                              | [Explore](https://car-purchase.netlify.app/)    |
+| Project                 | Tech Stack                                                       | Live                                            |
+| ----------------------- | ---------------------------------------------------------------- | ----------------------------------------------- |
+| Portfolio               | HTML, CSS, JavaScript                                            | [Explore](https://portfoliotechy.netlify.app/)  |
+| Interview Prep AI       | React.js, Node.js, Express.js, MongoDB, TailwindCSS              | [Explore](https://prepareinterview.vercel.app/) |
+| Quick Chat App          | React.js, Node.js, Express.js, MongoDB, TailwindCSS, Socket.io   | [Explore](https://qchatty.vercel.app/login)     |
+| Car Purchase            | HTML, CSS, JavaScript                                            | [Explore](https://car-purchase.netlify.app/)    |
+| Interactive Calender UI | React.js, CSS, JavaScript                                        | [Explore](https://calenderui.netlify.app/)      |
+| Smart AI Planner        | React, Node.js, Express.js, MongoDB, TailwindCSS, Authentication | [Explore]()                                     |
 
 </div>
 
@@ -131,9 +133,11 @@
   <!-- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=30&date_format=j%20M%5B%20Y%5D" />
 
-  </a> -->
+</a> -->
+
   <!-- Streak Stats -->
-  <img 
+
+<img 
     src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=0&background=0D1117&v=1" 
     height="170"
   />
