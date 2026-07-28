@@ -160,8 +160,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&cache_seconds=30&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </div> -->
--->
-
 
 
 
@@ -170,27 +168,29 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Abhay's GitHub Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh28Pandey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-  <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=Harsh28Pandey&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD400&icon_color=FFA500&text_color=FFFFFF"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh28Pandey&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD400&text_color=FFFFFF"/>
+</p>
 
-## 📈 Activity Graph
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=0&background=0D1117&v=1" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=react-dark&bg_color=0D1117&color=FFD400&line=FFA500&point=FFFFFF&hide_border=true" alt="Activity graph"/>
+</p>
+
+
+
+
+<!-- ## 📈 Activity Graph
 
 <div align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&hide_border=true&cache_seconds=0&area=true&v=1" 
   />
-</div>
+</div> -->
 
 
 
