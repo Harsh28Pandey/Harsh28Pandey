@@ -1,40 +1,35 @@
+<div align="center">
 
-<!-- PROFILE HEADER IMAGE -->
-<!--
-<p align="center">
-  <img
-       src="./robot_gif.gif"
-       alt="Top Image GIF"
-       width="500"
-       height="290"
-       style="border-radius: 30px;"
-  />
-</p>
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E9F,50:8A2BE2,100:00F5FF&height=250&section=header&text=Harsh%20Pandey&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Developer&descAlignY=58&descSize=20" />
 
-<!-- PROFILE HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Harsh+Pandey;B.Tech+CSE+Undergrad;Full+Stack+Developer;Data+Structures+%26+Algorithms;Problem+Solver;" alt="Typing SVG" />
-</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=FF2E9F&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Harsh+Pandey;B.Tech+CSE+Undergrad;Full+Stack+Developer;Data+Structures+%26+Algorithms;DSA+and+Problem+Solver;I+turn+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CSE%20Undergrad-%230077B5?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Developer-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <img src="https://img.shields.io/badge/Frontend%20Developer-%2300C4FF?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA%20Enthusiast-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Working%20at-ModelSuite.ai-FF2E9F?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23000000?style=for-the-badge&logo=stackshare&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solver-%238A2BE2?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
----
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## 🧑‍💼 About Me
 
+- 💼 Currently working as a **Full Stack Developer** at **ModelSuite.ai**
 - 🎓 B.Tech in **Computer Science & Engineering** @ **Kanpur Institute of Technology**
 - 🌱 Learning **Full Stack Development**, exploring and Practicing **DSA**
 - 🛠️ Passionate about building **user-centric products**
 - 🤝 Open to **collaboration**, **internships**, and **tech community involvement**
 
 ---
+
 
 ## 🛠 Tech Stack
 
@@ -58,7 +53,7 @@
 ### 🧩 Frameworks / Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,npm,bootstrap,redux" />
 </p>
 
 ---
@@ -74,18 +69,39 @@
 
 ---
 
-### 🔧 Tools & IDEs
+## ☁️ Cloud & Deployment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
 </p>
 
 ---
 
-<!--
-> 🧠 _"The journey from ideas to interfaces has been incredible — and it’s just getting started!"_
-> 💬 Feel free to fork, explore, and collaborate!
--->
+### 🔧 Tools & IDEs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer | ModelSuite.ai
+**July 2026 — Present**
+
+**Role:** Full Stack Developer
+
+- Developing and maintaining scalable full-stack web applications using **React.js, Node.js, Express.js, and MongoDB**
+- Building responsive, accessible, and user-focused interfaces with **React.js and Tailwind CSS**
+- Designing and integrating **RESTful APIs**, authentication systems, and database solutions
+- Implementing clean, maintainable, and efficient code following modern development practices
+- Collaborating with team members to analyze requirements, develop features, and improve product performance
+
+**Tech Stack:**  
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JavaScript` `REST APIs`
+
+---
 
 ## 🚀 Featured Projects
 
@@ -98,126 +114,37 @@
 | Quick Chat App    | React.js, Node.js, Express.js, MongoDB, TailwindCSS, Socket.io   | [Explore](https://qchatty.vercel.app/login)                  |
 | Car Purchase      | HTML, CSS, JavaScript                                            | [Explore](https://car-purchase.netlify.app/)                 |
 | Collab Flow       | React, Node.js, Express.js, MongoDB, TailwindCSS, Authentication | [Explore](https://collaspace.netlify.app/)                   |
-| Smart AI Planner  | React, Node.js, Express.js, MongoDB, TailwindCSS, Authentication | [Explore](https://github.com/Harsh28Pandey/smart-ai-planner) |
 
 </div>
 
 ---
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/harsh28pandey"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfoliotechy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23FF6F00?style=for-the-badge&logo=googlesites&logoColor=white" /></a>
-  <a href="mailto:harsh28.knp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/your_instagram_username/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/Harsh28Pandey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href=""><img src="https://komarev.com/ghpvc/?username=harsh28pandey&style=for-the-badge&labelColor=000&color=orange&logo=eye" /></a>
-  <a href=""><img src="https://img.shields.io/github/followers/harsh28pandey?label=Followers&style=for-the-badge&color=0FA3B1&labelColor=000" /></a>
-  <a href=""><img src="https://img.shields.io/github/stars/harsh28pandey?style=for-the-badge&color=FFD700&labelColor=000" /></a>
-</p>
-
----
-
-<!-- ## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=0&count_private=true" alt="Harsh's GitHub Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh28Pandey&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=0&v=2" />
-
-  </a>
-  <br/>
-  <!-- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=30&date_format=j%20M%5B%20Y%5D" />
-
-</a> -->
-
-  <!-- Streak Stats -->
-<!--
-<img 
-    src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=0&background=0D1117&v=1" 
-    height="170"
-  />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&hide_border=true&cache_seconds=0&area=true&v=1" 
-  />
-</div> -->
-
-<!-- <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&color=00ADD8&line=00ADD8&point=FFFFFF&cache_seconds=30&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
-</div> -->
-
-
 
 
 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD400&icon_color=FFA500&text_color=FFFFFF"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh28Pandey&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD400&text_color=FFFFFF"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harsh28Pandey&theme=radical&hide_border=true&cache_seconds=0&background=0D1117&v=1" height="170"/>
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harsh28Pandey&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF2E9F&amp;icon_color=00F5FF&amp;text_color=c9d1d9&amp;count_private=true" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harsh28Pandey&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=FF2E9F&amp;text_color=c9d1d9" height="165"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=react-dark&bg_color=0D1117&color=FFD400&line=FFA500&point=FFFFFF&hide_border=true" alt="Activity graph"/>
-</p>
+<img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=Harsh28Pandey&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=FF2E9F&amp;fire=00F5FF&amp;currStreakLabel=00F5FF" />
 
+</div>
 
-
-
-<!-- ## 📈 Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=radical&bg_color=0D1117&hide_border=true&cache_seconds=0&area=true&v=1" 
-  />
-</div> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&amp;theme=tokyo-night&amp;bg_color=0D1117&amp;hide_border=true&amp;area=true&amp;color=00F5FF&amp;line=FF2E9F" width="100%"/>
+</div>
+
+<br/>
 
 
 
 
 
-
-
-
-
-
-
-
----
-
-<!-- ## 🏆 GitHub Achievements (All-Time)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsh28Pandey&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
--->
-
- <!-- Dev Metrics Card
- <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh28Pandey&theme=radical" />
-  </p> -->
 
 ## 🏆 Certifications & Achievements
 
@@ -283,15 +210,25 @@
 
 ---
 
-## 💡 Quote That Inspires Me
+## 🤝 Let's Connect
 
-> _"💻 Code is like humor. When you have to explain it, it's bad."_  
-> — Cory House
+<div align="center">
+
+<!-- Replace the # links below with your real profile URLs -->
+<a href="https://portfoliotechy.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF2E9F?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harsh28pandey/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="mailto:harsh28.knp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> _"Code is like humor. When you have to explain it, it's bad."_ — Cory House
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00F5FF,50:8A2BE2,100:FF2E9F&amp;height=120&amp;section=footer" />
+
+</div>
 
 ---
-
-<!--
-<p align="center">
-  🚀 Let’s innovate, collaborate, and build the future together!
-</p>
--->
