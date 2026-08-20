@@ -84,7 +84,7 @@
 </p>
 
 ---
-
+<!--
 ## 💼 Experience
 
 ### Full Stack Developer | ModelSuite.ai
@@ -100,6 +100,7 @@
 
 **Tech Stack:**  
 `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JavaScript` `REST APIs`
+-->
 
 ---
 
@@ -126,15 +127,15 @@
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=Harsh28Pandey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&icon_color=00F5FF&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsh28Pandey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsh28Pandey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2E9F&text_color=c9d1d9&count_private=true" height="165"/>
 <br/><br/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Harsh28Pandey&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Harsh28Pandey&theme=tokyonight&hide_border=true&background=0D1117&ring=FF2E9F&fire=00F5FF&currStreakLabel=00F5FF&count_private=true" />
 </div>
 
 ### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00F5FF&line=FF2E9F" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh28Pandey&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00F5FF&line=FF2E9F&count_private=true" width="100%"/>
 </div>
 
 
