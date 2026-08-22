@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CSE%20Undergrad-%230077B5?style=for-the-badge&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA%20Enthusiast-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Working%20at-ModelSuite.ai-FF2E9F?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Working%20at-ModelSuite.ai-FF2E9F?style=for-the-badge&logo=googlecloud&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23000000?style=for-the-badge&logo=stackshare&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solver-%238A2BE2?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
