@@ -23,7 +23,7 @@
 
 ## 🧑‍💼 About Me
 
-- 💼 Currently working as a **Full Stack Developer** at **ModelSuite.ai**
+<!-- 💼 Currently working as a **Full Stack Developer** at **ModelSuite.ai** -->
 - 🎓 B.Tech in **Computer Science & Engineering** @ **Kanpur Institute of Technology**
 - 🌱 Learning **Full Stack Development**, exploring and Practicing **DSA**
 - 🛠️ Passionate about building **user-centric products**
